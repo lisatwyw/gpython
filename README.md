@@ -23,26 +23,6 @@ List expanded from [2016 blog](https://automating-gis-processes.github.io/2016/L
 
 - [Presentation slides by Feng Jan 2024](https://sustainability-gis.readthedocs.io/en/latest/lessons/L4/disaster-management-with-vgi.html)
 
-<details markdown=1><summary markdown="span">Our summary here</summary>
-
-our markdown text here : 
-```bash
-echo "Hello markdown"
-``'
-
-- markdown1
-- markdown2
-- markdown3
-
-html tags also supported
-<ol>
-<li> hello html list tag1</li>
-<li> hello html list tag2</li>
-</ol>
-
-</details>
-
-
  <details>
  
  <summary>Notes</summary>
