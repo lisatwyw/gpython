@@ -9,9 +9,9 @@ include:
 title: Python for geospatial analyses
 markdown: GFM
 show_downloads: false
-theme:  jekyll-theme-minimal
+theme: just-the-docs
 
-
+# just-the-docs
 # jekyll-theme-minimal     <-- blue
 # jekyll-theme-hacker      <-- black background with typewriter font
 # jekyll-theme-architect   <-- handwriting-like font
