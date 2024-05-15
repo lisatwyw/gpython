@@ -1,1 +1,5 @@
 # geopy
+
+## Examples
+
+[Colab notebook]()
