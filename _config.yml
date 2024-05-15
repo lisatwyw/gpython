@@ -8,7 +8,7 @@ include:
   - LICENSE.md
 title: Python for geospatial analyses
 markdown: GFM
-show_downloads: true
+show_downloads: false
 theme:  jekyll-theme-minimal
 
 
