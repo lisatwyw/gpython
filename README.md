@@ -1,5 +1,7 @@
 # geopy
 
+[Site under construction]
+
 ## Examples
 
 - [Colab notebook on ```osmnx``` package](open_street_map_demo.ipynb)
@@ -16,4 +18,5 @@ List expanded from [2016 blog](https://automating-gis-processes.github.io/2016/L
 
 ## Resources
  
-[Under construction]
+
+- [Presentation slides by Feng Jan 2024](https://sustainability-gis.readthedocs.io/en/latest/lessons/L4/disaster-management-with-vgi.html)
