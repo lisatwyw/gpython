@@ -1,4 +1,4 @@
-# geopy
+# Python for geospatial analyses
 
 [Site under construction]
 
@@ -20,7 +20,6 @@ List expanded from [2016 blog](https://automating-gis-processes.github.io/2016/L
 
 ## Resources
  
-
 - [Presentation slides by Feng Jan 2024](https://sustainability-gis.readthedocs.io/en/latest/lessons/L4/disaster-management-with-vgi.html)
 
  <details>
@@ -56,8 +55,15 @@ List expanded from [2016 blog](https://automating-gis-processes.github.io/2016/L
  - City admin districts
  - POI
  - Geotag tweets (geo coordinate)
- 
- 
- </details>
-  
+
+
+
+</details>
+
+
+
+## Deep learning & GIS
+
+[Coming soon]
+
   
