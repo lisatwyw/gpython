@@ -21,8 +21,9 @@ List expanded from [2016 blog](https://automating-gis-processes.github.io/2016/L
 
 - [Presentation slides by Feng Jan 2024](https://sustainability-gis.readthedocs.io/en/latest/lessons/L4/disaster-management-with-vgi.html)
 
- <details>
-  <summary>Notes</summary>
+<details>
+
+<summary>Notes</summary>
 
 ### Subthemes:
 - Epidemiology
@@ -48,6 +49,7 @@ List expanded from [2016 blog](https://automating-gis-processes.github.io/2016/L
 - City admin districts
 - POI
 - Geotag tweets (geo coordinate)
+
 
 </details>
  
