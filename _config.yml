@@ -4,7 +4,9 @@ plugins:
   - jekyll-github-metadata
   - jekyll-include-cache
 
-
+sidebar:
+  - getting-started
+  
 relative_links:
   enabled: true
   collections: true
@@ -15,8 +17,6 @@ title: Python for geospatial analyses
 markdown: GFM
 show_downloads: false
 theme: just-the-docs
-
-
 
 footer_content: "Copyright &copy; 2024 LYW Tang. Distributed by an <a href=\"LICENSE\">MIT license.</a>"
 
