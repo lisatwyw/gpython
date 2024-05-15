@@ -1,5 +1,10 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+
+
 relative_links:
   enabled: true
   collections: true
@@ -11,6 +16,11 @@ markdown: GFM
 show_downloads: false
 theme: just-the-docs
 
+
+
+footer_content: "Copyright &copy; 2024 LYW Tang. Distributed by an <a href=\"LICENSE\">MIT license.</a>"
+
+  
 # just-the-docs
 # jekyll-theme-minimal     <-- blue
 # jekyll-theme-hacker      <-- black background with typewriter font
