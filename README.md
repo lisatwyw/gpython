@@ -7,7 +7,7 @@ id: examples
 ---
 ## Examples
 
-- [Colab notebook on ```osmnx``` package](open_street_map_demo.ipynb)
+- [Colab notebook on ```osmnx``` package](https://colab.research.google.com/drive/1GsNH-DndcHQUUadXiH-h9v0pDhnxa-Au#scrollTo=8JqN-ftgDDOS)
 - [App leveraging ```rasterio```](https://can-ale.streamlit.app/)
 - [App demonstrating geocoding and geographic mapping](https://apr5-demo-app1.streamlit.app/)
 
