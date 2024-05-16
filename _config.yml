@@ -8,10 +8,15 @@ relative_links:
   enabled: true
   collections: true
 
+sidebar:
+  - examples
+  - popular-packages
+  - resources
   
 include:
   - README.md
   - LICENSE.md
+  
 title: Python for geospatial analyses
 markdown: GFM
 show_downloads: false
