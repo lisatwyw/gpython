@@ -27,8 +27,7 @@ List compiled and last checked in May 2024:
     <summary>Notes</summary>
    
     
-    ### Subthemes
-    
+- Subthemes   
     - Epidemiology
     - Participation
     - Transport
@@ -36,10 +35,8 @@ List compiled and last checked in May 2024:
     - Social geography
     - Health
     - Climate/ environment
-   
-    
-    ## Social media as source of ambient geographic info
-    
+       
+- Social media as source of ambient geographic info
     - Citizen observatories for flood, earthquake, forest fires
     - Need for NLP: resolve ambiguity "flood with people"
     - Sentiments analysis to understand topics: e.g. Hurricanes Harvey, Maria, Irma:
@@ -50,12 +47,10 @@ List compiled and last checked in May 2024:
      - personal update
     - Phases: preparedness, response, impact, recovery  
     
-    ## Diff levels of spatial precisions
-    
+- Diff levels of spatial precisions
     - City admin districts
     - POI
     - Geotag tweets (geo coordinate)
-   
    
    
    </details>
