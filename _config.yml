@@ -1,3 +1,23 @@
+title: Zendesk Garden Jekyll Theme
+description: A Jekyll theme using the Zendesk Garden design patterns
+
+permalink: pretty
+
+search_enabled: true
+auto_page_title: true
+
+mermaid_enabled: true
+mermaid_theme: forest
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+  
 plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
@@ -18,8 +38,8 @@ include:
   - LICENSE.md
   
 title: Python for geospatial analyses
-markdown: GFM
 show_downloads: false
+
 theme: jekyll-theme-zendesk-garden 
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 
