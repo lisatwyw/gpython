@@ -60,26 +60,26 @@ List compiled and last checked in May 2024:
 ## Deep learning & GIS
 
 Huang, Z., Qian, H., Wang, X., Lin, D., Wang, J., & Xie, L. (2023). Graph neural network-based identification of ditch matching patterns across multi-scale geospatial data. Geocarto International, 38(1), 2294900. 
-<details>
- 
-<summary>Synopsis</summary>
-
-[URL](https://www.tandfonline.com/doi/epdf/10.1080/10106049.2023.2294900?needAccess=true)
-
-- Problem: Different scales representing ditches drain rainwater need to be matched  
-- Background:
-    - Common GNN types: 
-        - graph sample and aggregate (SAG): neighbour sampling / aggregrate functions to extract neighborhood info  
-        - topological adaptive graph convolutional (TAGC): skips connections to enhance stronger generlization performance  
-- Approach: supervised GNN 
-    - 3 SAGEConv + 1 TAGConv layers
-    - Node characterizations: 
-        - topological: number of adjacent ditches, connectivity to lakes
-        - semantic: hierarchy level; group by width levels 
-        - geometric: length of ditch segment 
-        - contextual: distribution density of ditch segments
-    - Experimented on Netherlands' ditch data
- 
-</details>
+   <details>
+    
+   <summary>Synopsis</summary>
+   
+   [URL](https://www.tandfonline.com/doi/epdf/10.1080/10106049.2023.2294900?needAccess=true)
+   
+   - Problem: Different scales representing ditches drain rainwater need to be matched  
+   - Background:
+       - Common GNN types: 
+           - graph sample and aggregate (SAG): neighbour sampling / aggregrate functions to extract neighborhood info  
+           - topological adaptive graph convolutional (TAGC): skips connections to enhance stronger generlization performance  
+   - Approach: supervised GNN 
+       - 3 SAGEConv + 1 TAGConv layers
+       - Node characterizations: 
+           - topological: number of adjacent ditches, connectivity to lakes
+           - semantic: hierarchy level; group by width levels 
+           - geometric: length of ditch segment 
+           - contextual: distribution density of ditch segments
+       - Experimented on Netherlands' ditch data
+    
+   </details>
 
   
