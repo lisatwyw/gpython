@@ -1,19 +1,13 @@
 # Python for geospatial analyses
 
 [Site under construction]
-
----
-id: examples
----
+ 
 ## Examples
 
 - [Colab notebook on ```osmnx``` package](https://colab.research.google.com/drive/1GsNH-DndcHQUUadXiH-h9v0pDhnxa-Au#scrollTo=8JqN-ftgDDOS)
 - [App leveraging ```rasterio```](https://can-ale.streamlit.app/)
 - [App demonstrating geocoding and geographic mapping](https://apr5-demo-app1.streamlit.app/)
-
----
-id: popular-packages
----
+ 
 ## Popular packages
 
 List compiled and last checked in May 2024:
@@ -24,16 +18,14 @@ List compiled and last checked in May 2024:
 - [Shapely](https://shapely.readthedocs.io/en/stable/)
 - ...
 
----
-id: resources
----
-## resources
+ 
+## Resources
  
 - [Presentation slides by Feng Jan 2024](https://sustainability-gis.readthedocs.io/en/latest/lessons/L4/disaster-management-with-vgi.html)
 
-    <details>
-    
-    <summary>Notes</summary>
+   <details>
+   
+   <summary>Notes</summary>
    
     
 - Subthemes   
@@ -69,6 +61,7 @@ id: resources
 ## Deep learning & GIS
 
 Huang, Z., Qian, H., Wang, X., Lin, D., Wang, J., & Xie, L. (2023). Graph neural network-based identification of ditch matching patterns across multi-scale geospatial data. Geocarto International, 38(1), 2294900. 
+
    <details>
     
    <summary>Synopsis</summary>
