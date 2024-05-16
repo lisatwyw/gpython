@@ -1,6 +1,3 @@
-title: Zendesk Garden Jekyll Theme
-description: A Jekyll theme using the Zendesk Garden design patterns
-
 permalink: pretty
 
 search_enabled: true
@@ -16,8 +13,6 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
-
-  
   
 relative_links:
   enabled: true
