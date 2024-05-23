@@ -2,8 +2,9 @@
 
 [Site under construction]
  
-## Examples
+## Lisa's examples
 
+- [Colab notebook on ```folium```, etc.](https://colab.research.google.com/drive/1hZ4hqzQ9DbEQ_-x4Lou6JcVR5y2My7Mw)
 - [Colab notebook on ```osmnx``` package](https://colab.research.google.com/drive/1GsNH-DndcHQUUadXiH-h9v0pDhnxa-Au#scrollTo=8JqN-ftgDDOS)
 - [App leveraging ```rasterio```](https://can-ale.streamlit.app/)
 - [App demonstrating geocoding and geographic mapping](https://apr5-demo-app1.streamlit.app/)
@@ -26,34 +27,34 @@ List compiled and last checked in May 2024:
    <details>
    
    <summary>Notes</summary>
-   
-    
-- Subthemes   
-    - Epidemiology
-    - Participation
-    - Transport
-    - Social science
-    - Social geography
-    - Health
-    - Climate/ environment
        
-- Social media as source of ambient geographic info
-    - Citizen observatories for flood, earthquake, forest fires
-    - Need for NLP: resolve ambiguity "flood with people"
-    - Sentiments analysis to understand topics: e.g. Hurricanes Harvey, Maria, Irma:
-     - caution, advice
-     - sympathy, support
-     - evidence of injury, mortality, missing people, damage infrastructure, etc.
-     - request for donation/ volunteering
-     - personal update
-    - Phases: preparedness, response, impact, recovery  
-    
-- Diff levels of spatial precisions
-    - City admin districts
-    - POI
-    - Geotag tweets (geo coordinate)
-   
-   
+        
+    - Subthemes   
+        - Epidemiology
+        - Participation
+        - Transport
+        - Social science
+        - Social geography
+        - Health
+        - Climate/ environment
+           
+    - Social media as source of ambient geographic info
+        - Citizen observatories for flood, earthquake, forest fires
+        - Need for NLP: resolve ambiguity "flood with people"
+        - Sentiments analysis to understand topics: e.g. Hurricanes Harvey, Maria, Irma:
+         - caution, advice
+         - sympathy, support
+         - evidence of injury, mortality, missing people, damage infrastructure, etc.
+         - request for donation/ volunteering
+         - personal update
+        - Phases: preparedness, response, impact, recovery  
+        
+    - Diff levels of spatial precisions
+        - City admin districts
+        - POI
+        - Geotag tweets (geo coordinate)
+       
+       
    </details>
 
 
