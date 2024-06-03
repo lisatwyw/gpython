@@ -19,15 +19,14 @@ List compiled and last checked in May 2024:
 - [Shapely](https://shapely.readthedocs.io/en/stable/)
 - ...
 
- 
+## Geo Datasets
+
 <details>
 
-<summary>Geo Datasets</summary>
+<summary>Terrain Resource Information Management Program (TRIM 2020), via SFU library </summary>
 
-## Terrain Resource Information Management Program (TRIM 2020), via SFU library
-
-Terrain Resource Information Management Program
-
+> Terrain Resource Information Management Program
+>
 > Depending on the region selected, TRIM data may contain the following. Generally, TRIM data comes in two parts for each BCGS region. 1. Digital Elevation Model (DEM). Shapefiles containing elevation points and breaklines. 2. TRIM Positional. Map annotation containing various layers, as listed below. Not all mapsheets contain all layers.
 TRIM Contour Annotation Contour annotation for TRIM mapping. Contour text and spot heights. The TRIM program produces digital maps, which is a collection of coverages to conform with the BC Geographic System layout. TRIM mapping consists of 7,027 mapsheets covering the province of British Columbia at a scale of 1:20 000.
 >
