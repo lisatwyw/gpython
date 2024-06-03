@@ -4,10 +4,11 @@
  
 ## Lisa's examples
 
-- [Colab notebook on ```folium```, etc.](https://colab.research.google.com/drive/1hZ4hqzQ9DbEQ_-x4Lou6JcVR5y2My7Mw)
-- [Colab notebook on ```osmnx``` package](https://colab.research.google.com/drive/1GsNH-DndcHQUUadXiH-h9v0pDhnxa-Au#scrollTo=8JqN-ftgDDOS)
 - [App leveraging ```rasterio```](https://can-ale.streamlit.app/)
 - [App demonstrating geocoding and geographic mapping](https://apr5-demo-app1.streamlit.app/)
+
+- [Colab notebook on ```folium```, etc.](https://colab.research.google.com/drive/1hZ4hqzQ9DbEQ_-x4Lou6JcVR5y2My7Mw)
+- [Colab notebook on ```osmnx``` package](https://colab.research.google.com/drive/1GsNH-DndcHQUUadXiH-h9v0pDhnxa-Au#scrollTo=8JqN-ftgDDOS)
  
 ## Popular packages
 
