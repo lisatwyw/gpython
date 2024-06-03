@@ -24,7 +24,7 @@ https://doi.org/10.1007/s12517-024-11948-x
 
 ## Disaster management
  
-- [Presentation slides by Feng Jan 2024](https://sustainability-gis.readthedocs.io/en/latest/lessons/L4/disaster-management-with-vgi.html)
+[Presentation slides by Feng Jan 2024](https://sustainability-gis.readthedocs.io/en/latest/lessons/L4/disaster-management-with-vgi.html)
 
    <details>
    
