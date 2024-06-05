@@ -1,3 +1,6 @@
+
+[View as GitPages](https://lisatwyw.github.io/gpython/)
+
 # ```gpython```: Python for analyses of **g**eospatial data 
 
 [Site under construction]
