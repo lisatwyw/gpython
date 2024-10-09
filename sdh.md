@@ -116,7 +116,13 @@ Odds ratio
 - OR~1; not probability; behaviour depend on how uncommon outcome is (higher prevalence)
 - Not sensitive; overestimating health inequalties 
 - Case control need the baseline risks to compare
+- Generally not collaspible 
 - ***Should not be used to access health inequalities!!***
+
+
+AI errors to cause patient harm
+- subject to discrimination may be under-represented in the training data
+- 
 
 </details>
 
@@ -141,3 +147,6 @@ Odds ratio
 
 ![image](https://github.com/user-attachments/assets/6935821e-f05d-4307-a5df-010aa8498148)
 
+<br>
+
+![image](https://github.com/user-attachments/assets/158c65b8-9c92-47f8-a335-71e77e9d9a32)
