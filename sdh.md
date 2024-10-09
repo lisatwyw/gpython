@@ -110,19 +110,22 @@ Group people by...
 - Risk ratio ~= Odds ratio
 
 
-Odds ratio
-- confusing for researchers
+Odds ratio (OR)
+- 
 - "weak but significant"
-- OR~1; not probability; behaviour depend on how uncommon outcome is (higher prevalence)
+- OR~1; not probability; confusing for researchers
+- Behaviour depend on how uncommon outcome is (higher prevalence)
+- Generally not collaspible
 - Not sensitive; overestimating health inequalties 
 - Case control need the baseline risks to compare
-- Generally not collaspible 
+- "OR overestimated the association when the prevalence is high"
 - ***Should not be used to access health inequalities!!***
 
 
 AI errors to cause patient harm
 - subject to discrimination may be under-represented in the training data
-- 
+- people with distinct characteristics are being merged together during data collection, when done without standards
+
 
 </details>
 
@@ -150,3 +153,10 @@ AI errors to cause patient harm
 <br>
 
 ![image](https://github.com/user-attachments/assets/158c65b8-9c92-47f8-a335-71e77e9d9a32)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/b9c5e6a4-f62f-468a-a3a1-62e32ec7ef68)
+
+
