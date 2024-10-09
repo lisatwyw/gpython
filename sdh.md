@@ -116,7 +116,7 @@ Odds ratio
 - OR~1; not probability; behaviour depend on how uncommon outcome is (higher prevalence)
 - Not sensitive; overestimating health inequalties 
 - Case control need the baseline risks to compare
-
+- ***Should not be used to access health inequalities!!***
 
 </details>
 
