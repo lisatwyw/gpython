@@ -47,11 +47,22 @@ Change over time adds complexity, e.g. 1o yrs later
 Abs diff: No change
 Ratio: Yes!
 
-occupation -> income -> blood pressure as surrogate of health status
+Ex 1: occupation -> income -> blood pressure as surrogate of health status
 - ***mediator*** are variables that fall between causal pathway
 
-job promotion -> (?) race -> blood pressure (white sense the benefits to changes; black don't because sense of control remains the same)
+Ex 2: job promotion -> (?) race -> blood pressure (white sense the benefits to changes; black don't because sense of control remains the same)
 - ***effect modifiers** are variables that help explain observed relationship
+
+Is it unfair that pop. A has lower rate than pop. B?
+- If yes, then that's health inequity
+
+Recap: All inequities are all inequalities, but not vice-versa
+
+
+# Value judgement
+
+... requires context, info on politics, norms (not necessarily universal)
+
 
 # Self-selection
 
@@ -65,9 +76,22 @@ job promotion -> (?) race -> blood pressure (white sense the benefits to changes
 - does living in high poverty areas increase risk of getting sick?
 
 
-# Selection (vs seggregation)
+# Seggregation
+
+# Measures
+
+From "Implicit value judgements" by Harper et al.:
+- Concentration inndex
+- Index of disparity
+- Mean log deviation
+- Extended Concentration Index for individuals
+- ...
+
+# Figures
 
 
 ![image](https://github.com/user-attachments/assets/358bb225-8c1b-4869-a1ba-3346ae5c0d2c)
 
- 
+![image](https://github.com/user-attachments/assets/587a0f91-6e2d-45ec-8eee-e123442ea68b)
+
+![image](https://github.com/user-attachments/assets/e2f3f5ce-9c9a-4c23-906f-3cafa5d8685b)
