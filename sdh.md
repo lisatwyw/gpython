@@ -1,3 +1,8 @@
+# Health inequality vs inequity
+
+- ***Health inequality*** 
+- If differences observed involve "value judgements", it's latter
+- 
 
 # Social gradient / dose-response relationship
 
@@ -50,6 +55,19 @@ job promotion -> (?) race -> blood pressure (white sense the benefits to changes
 
 # Self-selection
 
+- "People sort themselves"
 
+# Context vs composition 
+
+- Composition of an area affected by influx of chronically ill residents
+- Is an effect compositional or contextual?
+- **Knowing differences exist across contexts does not tell us why differences exist** p. 8
+- does living in high poverty areas increase risk of getting sick?
+
+
+# Selection (vs seggregation)
+
+
+![image](https://github.com/user-attachments/assets/358bb225-8c1b-4869-a1ba-3346ae5c0d2c)
 
  
