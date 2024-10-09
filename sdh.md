@@ -102,6 +102,24 @@ Group people by...
 - Simple measure (absolute); 2 groups only
 - Complex measures (more than 2 groups)
 
+
+# Discussions
+
+<details>
+ 
+- Risk ratio ~= Odds ratio
+
+
+Odds ratio
+- confusing for researchers
+- "weak but significant"
+- OR~1; not probability; behaviour depend on how uncommon outcome is (higher prevalence)
+- Not sensitive; overestimating health inequalties 
+- Case control need the baseline risks to compare
+
+
+</details>
+
 # Figures
 
 
