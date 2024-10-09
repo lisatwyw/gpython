@@ -126,12 +126,15 @@ Odds ratio
 ![image](https://github.com/user-attachments/assets/358bb225-8c1b-4869-a1ba-3346ae5c0d2c)
 
 <br>
+
 ![image](https://github.com/user-attachments/assets/587a0f91-6e2d-45ec-8eee-e123442ea68b)
 
 <br>
+
 ![image](https://github.com/user-attachments/assets/e2f3f5ce-9c9a-4c23-906f-3cafa5d8685b)
 
 <br>
+
 ![image](https://github.com/user-attachments/assets/73c3ba9d-1396-4a33-85c4-1e7425f6522a)
 
 <br>
