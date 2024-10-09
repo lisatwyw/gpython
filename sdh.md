@@ -87,11 +87,36 @@ From "Implicit value judgements" by Harper et al.:
 - Extended Concentration Index for individuals
 - ...
 
+
+Group people by...
+
+- SES
+- Education
+- Gender right now, sex at birth
+- Geography (space, place)
+- Time
+- Education
+- Income/ occupation
+
+
+- Simple measure (absolute); 2 groups only
+- Complex measures (more than 2 groups)
+
 # Figures
 
 
 ![image](https://github.com/user-attachments/assets/358bb225-8c1b-4869-a1ba-3346ae5c0d2c)
 
+<br>
 ![image](https://github.com/user-attachments/assets/587a0f91-6e2d-45ec-8eee-e123442ea68b)
 
+<br>
 ![image](https://github.com/user-attachments/assets/e2f3f5ce-9c9a-4c23-906f-3cafa5d8685b)
+
+<br>
+![image](https://github.com/user-attachments/assets/73c3ba9d-1396-4a33-85c4-1e7425f6522a)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/6935821e-f05d-4307-a5df-010aa8498148)
+
